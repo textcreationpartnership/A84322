@@ -1,0 +1,426 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The church-sleeper awakened, or A discourse on Act. 20. 9. being the substance of two sermons composed and preached at Corke in Ireland. / By Joseph Eyres master of arts, and a servant of God in the Gospel of his son.</title>
+            <author>Eyres, Joseph.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 60 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84322</idno>
+            <idno type="STC">Wing E3949</idno>
+            <idno type="STC">Thomason E1902_2</idno>
+            <idno type="STC">ESTC R209968</idno>
+            <idno type="EEBO-CITATION">99868812</idno>
+            <idno type="PROQUEST">99868812</idno>
+            <idno type="VID">170540</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84322)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170540)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 236:E1902[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The church-sleeper awakened, or A discourse on Act. 20. 9. being the substance of two sermons composed and preached at Corke in Ireland. / By Joseph Eyres master of arts, and a servant of God in the Gospel of his son.</title>
+                  <author>Eyres, Joseph.</author>
+               </titleStmt>
+               <extent>[48],  71, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Godbid, for Joseph Cranford, at the sign of the kings-Head in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Acts XX, 9 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170540:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Church-Sleeper</hi> AWAKENED, OR A DISCOURSE On <hi>Act.</hi> 20.9. being the Subſtance of two Sermons Compoſed and Preached at <hi>Corke</hi> in <hi>Ireland.</hi>
+            </p>
+            <p>By <hi>Joſeph Eyres</hi> Maſter of Arts, and a Servant of God in the Goſpel of his Son.</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.
+<bibl>Mat. <hi>26.40.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Godbid,</hi> for <hi>Joſeph Cranford,</hi> at the Sign of the <hi>Kings-Head</hi> in St. <hi>Pauls</hi> Church-yard, 1659.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170540:2"/>
+            <pb facs="tcp:170540:2"/>
+            <head>To his much Honored and dearly beloved Friends, the Inhabitants of <hi>Cork,</hi> both Magiſtrates, and People; thoſe eſpecially that are his uſual Hearers at Chriſt-Church:</head>
+            <head type="sub">JOSEPH EYRES <hi>Dedicateth this inſuing diſcourſe, as an expreſſion of his thankful<g ref="char:EOLhyphen"/>neſs for their owning of him in the worſt Times. And wiſheth in<g ref="char:EOLhyphen"/>creaſe of grace here, and fulneſs of glory hereafter.</hi>
+            </head>
+            <opener>
+               <salute>Worthy and Chriſtian Friends,</salute>
+            </opener>
+            <p>TIme was when men of Anti-Magiſtratical, and Anti—Miniſteriall
+<pb facs="tcp:170540:3"/>Principles were ve<g ref="char:EOLhyphen"/>ry impoſing, and imperious, being as ſharp thorns in the tender eyes of thoſe to whom ſet<g ref="char:EOLhyphen"/>tlement and order in Church, and State were very dear: yet in Times of greateſt Ataxie, Apoſtacy, Confuſi<g ref="char:EOLhyphen"/>on, the Lord-hath ſtill had a remnant in this place, that have ſighed in ſe<g ref="char:EOLhyphen"/>cret for all the abo<g ref="char:EOLhyphen"/>minations,
+<pb facs="tcp:170540:3"/>blaſphe<g ref="char:EOLhyphen"/>mies, and boiſterous oppoſitions againſt the Truth that have been in the midſt of us. Some of thoſe melting mourners the Lord hath called home, and taken to himſelf, and for the briny brook, that they have drunk of in the way, hath given them to drink of the river of his pleaſure.</p>
+            <p>Others have lived to ſee better
+<pb facs="tcp:170540:4"/>dayes, and are not without ſome bud<g ref="char:EOLhyphen"/>ding hopes that it ſhall at length go well with <hi>Sion,</hi> which they have performed before their choiceſt com<g ref="char:EOLhyphen"/>forts, and their chiefeſt joy. O how welcome is that hand of hea<g ref="char:EOLhyphen"/>ven that begins to lift up the poor out of the duſt, and to wipe away the teares from the
+<pb facs="tcp:170540:4"/>ſwolne eyes, and blubber'd cheeks of the Daughters of <hi>Jeruſalem,</hi> giving unto them <hi>beauty for aſhes, and the garment of praiſe for the ſpirit of heavi<g ref="char:EOLhyphen"/>neſs!</hi>
+            </p>
+            <p>Your condition you looked upon as deplorably ſad, whileſt without power in your own hands to reform the abuſes, and redreſs the evils you labou<g ref="char:EOLhyphen"/>red
+<pb facs="tcp:170540:5"/>under. Provi<g ref="char:EOLhyphen"/>dence hath reſto<g ref="char:EOLhyphen"/>red unto you your Charter, with your ſeveral Ornaments of honour, and Badges of authori<g ref="char:EOLhyphen"/>ty, and hereby put you into a capaci<g ref="char:EOLhyphen"/>ty of being Refor<g ref="char:EOLhyphen"/>mers, Repairers of breaches, and Exe<g ref="char:EOLhyphen"/>cutioners of juſtice; ſo that if you will but quit your ſelves like men, appear againſt the grow<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:170540:5"/>and prevailing corruptions of the Times, and give a check to the inſo<g ref="char:EOLhyphen"/>lency of mens un<g ref="char:EOLhyphen"/>ruly luſts, you may expect to be carri<g ref="char:EOLhyphen"/>ed as on Eagles wings, to be pre<g ref="char:EOLhyphen"/>ſerved under the ſhadow of the mightieſt grace, and to have the bleſſing of <hi>peace within your wals, and plenty within your pala<g ref="char:EOLhyphen"/>ces.</hi>
+            </p>
+            <pb facs="tcp:170540:6"/>
+            <p>Let not your preſent outward meanneſs in the world, and want of an incouraging Revenue to ſupport your ſtate, retard your motions, diſ<g ref="char:EOLhyphen"/>courage you in your duty, make you loth to inter<g ref="char:EOLhyphen"/>meddle much in matters of Govern<g ref="char:EOLhyphen"/>ment, and take you off from an Hero<g ref="char:EOLhyphen"/>ick and Magnani<g ref="char:EOLhyphen"/>mous managing of
+<pb facs="tcp:170540:6"/>that High Truſt that is repoſed in you. Do but lay out your ſelves wholly for God; be warm and vigo<g ref="char:EOLhyphen"/>rous in the proſe<g ref="char:EOLhyphen"/>cution of thoſe de<g ref="char:EOLhyphen"/>ſignes that tend to his glory; execute juſtice impartial<g ref="char:EOLhyphen"/>ly upon offending ones; that <hi>the mouth of iniquity may be ſtopped,</hi> the moſt daring tranſgreſſors daunted, and con<g ref="char:EOLhyphen"/>ſtrained
+<pb facs="tcp:170540:7"/>to hide themſelves through fear and ſhame; and you ſhall find that the Lord will ſweetly ſmile, and <hi>ſhine upon your Ta<g ref="char:EOLhyphen"/>bernacles,</hi>
+               <note place="margin">1 Sam. 2.30.</note> 
+               <hi>and com<g ref="char:EOLhyphen"/>paſſe you about with his loving kindneſs, as with a ſheild.</hi>
+               <note place="margin">2 Chron. 15.20.</note> 
+               <hi>The Lord will honour thoſe that honour him.</hi> The Lord will be with you, whileſt you are with him. Beſides,
+<pb facs="tcp:170540:7"/>I charitably hope, and am verily per<g ref="char:EOLhyphen"/>ſwaded, did the State but hear of your renowned zeale, ſevere refor<g ref="char:EOLhyphen"/>mation, and tho<g ref="char:EOLhyphen"/>rough owning of the wayes of God, their hearts would be much drawn forth to mind your concernments, and to incourage you in the Lords work, by beſtowing upon you ſome ſignal ex<g ref="char:EOLhyphen"/>preſſion
+<pb facs="tcp:170540:8"/>of favour and reſpect; and the rather, becauſe of your former, ne<g ref="char:EOLhyphen"/>ver to be forgotten kindneſs in ſeaſo<g ref="char:EOLhyphen"/>nably opening your gates to receive and releive their Army haraſſed and worn out with wants and weakneſs.</p>
+            <p>A few words of wholſome advice I ſhall intreat you candidly to inter<g ref="char:EOLhyphen"/>pret and accept.
+<pb facs="tcp:170540:8"/>You who are now incorporated into a Civil Society, la<g ref="char:EOLhyphen"/>bour to be incor<g ref="char:EOLhyphen"/>porated into Chriſt, and to be free De<g ref="char:EOLhyphen"/>niſons of the new <hi>Jeruſalem</hi> that is a<g ref="char:EOLhyphen"/>bove.
+<note place="margin">John 8.36.</note> 
+               <hi>If the Son make you free, you ſhall be free indeed.</hi> Purge your own Hearts, and reform your own Families, and hereby give a good example unto others to do the
+<pb facs="tcp:170540:9"/>like. Let your Houſes be little Churches, in which God ſhall be duly worſhipped, and his name dayly called upon. Live in ſub<g ref="char:EOLhyphen"/>jection to the Laws of Chriſts King<g ref="char:EOLhyphen"/>dome, and call up<g ref="char:EOLhyphen"/>on others to ſtoop with their neck to the ſame Yoke.</p>
+            <p>Your incorpora<g ref="char:EOLhyphen"/>tion and conjuncti<g ref="char:EOLhyphen"/>on cals loudly on you for union and
+<pb facs="tcp:170540:9"/>unanimity. <hi>Keepe</hi> therefore <hi>the unity of the ſpirit in the bond of peace.</hi>
+               <note place="margin">Epheſ. 4.3.</note> Let your hearts be ſea<g ref="char:EOLhyphen"/>ſoned with the ſalt of grace, and be at peace among your ſelves. Beware of being divided in your conſultations, and tranſactions. It was well obſerved by <hi>Nazianzen,</hi> That <hi>Diſſolution is the Daughter of Diſſen<g ref="char:EOLhyphen"/>tion.</hi> As the con<g ref="char:EOLhyphen"/>flict
+<pb facs="tcp:170540:10"/>of contrary hu<g ref="char:EOLhyphen"/>mours cauſeth di<g ref="char:EOLhyphen"/>ſeaſes and deſtru<g ref="char:EOLhyphen"/>ctive diſtempers in the body naturall: ſo the claſhings and conteſts of men, who are armed with contrary principles, and aime at diffe<g ref="char:EOLhyphen"/>rent ends; and in ſtead of promoting the good of the <hi>Community,</hi> make it their buſineſs to advance the intereſt of a <hi>Faction,</hi> will
+<pb facs="tcp:170540:10"/>prove fatal, and of dangerous conſe<g ref="char:EOLhyphen"/>quence to the body politick.</p>
+            <p>Maintain a cor<g ref="char:EOLhyphen"/>diall, cloſe, and comfortable cor<g ref="char:EOLhyphen"/>reſpondence with your <hi>Church-Guides,</hi> whom you ſee a clear Providence making your <hi>Over<g ref="char:EOLhyphen"/>ſeers.</hi> Peoples ta<g ref="char:EOLhyphen"/>king liberty to themſelves to diſ<g ref="char:EOLhyphen"/>own and deſert at pleaſure their own
+<pb facs="tcp:170540:11"/>Paſtours, and han<g ref="char:EOLhyphen"/>kering after novel, both Preachers, and Opinions, hath turned the Church into a confuſed Chaos; diſcompo<g ref="char:EOLhyphen"/>ſed Chriſts myſti<g ref="char:EOLhyphen"/>cal Body, and af<g ref="char:EOLhyphen"/>flicted its members with diſtortions and diſlocations.</p>
+            <p>Time was, when the breath of a Miniſter was ab<g ref="char:EOLhyphen"/>horred, and would hardly be indured
+<pb facs="tcp:170540:11"/>in <hi>Corke,</hi> and his coming to the City as much dreaded as the Invaſion of an enemy. Bleſſed be God that your eyes do again be<g ref="char:EOLhyphen"/>hold your Teach<g ref="char:EOLhyphen"/>ers; that the num<g ref="char:EOLhyphen"/>ber of them in this County is increa<g ref="char:EOLhyphen"/>ſed, and they in<g ref="char:EOLhyphen"/>couraged with the refreſhing influence of Authority. You cannot be ignorant, how long you were
+<pb facs="tcp:170540:12"/>conſtrained to wait, and how many difficulties were wa<g ref="char:EOLhyphen"/>ded through ere an Order could be procured for my eſtabliſhment, and ſetling among you, by reaſon of the undermining ſug<g ref="char:EOLhyphen"/>geſtions of ſome whiſpering Contra<g ref="char:EOLhyphen"/>ſentients.</p>
+            <p>For the ſpace of ſix years I have been your unwor<g ref="char:EOLhyphen"/>thy Teacher, and
+<pb facs="tcp:170540:12"/>preached the Go<g ref="char:EOLhyphen"/>ſpel unto the Inha<g ref="char:EOLhyphen"/>bitants of this City; I hope not altoge<g ref="char:EOLhyphen"/>ther without ſuc<g ref="char:EOLhyphen"/>ceſs. Though I muſt pofeſs, that I cannot but with grief take notice of the fewneſs of thoſe ſheaves that are gathered into Chriſts barn. How hard are mens hearts under the continual beating of the hammer!
+<pb facs="tcp:170540:13"/>How do they har<g ref="char:EOLhyphen"/>den their hearts like the adamant againſt the clear convictions of the Word! How do men ſtand out a<g ref="char:EOLhyphen"/>gainſt Chriſt, when ſummoned to come in, and entertain his Meſſage with perpetual quarrels, and endleſs contra<g ref="char:EOLhyphen"/>dictions! <hi>This is a lamentation, and ſhall be for a lamen<g ref="char:EOLhyphen"/>tation.</hi>
+            </p>
+            <pb facs="tcp:170540:13"/>
+            <p>Let me paſſio<g ref="char:EOLhyphen"/>nately beſeech you in the bowels of Chriſt Jeſus, your Lord, and mine, to <hi>be wiſe in this your day, and mind the things that do be<g ref="char:EOLhyphen"/>long unto your peace.</hi>
+            </p>
+            <p>Let the ſound<g ref="char:EOLhyphen"/>ing of the Silver Trumpet of the Goſpel awaken you, and cauſe you to ſhake off that
+<pb facs="tcp:170540:14"/>unweldy frame of ſpirit that makes men dull and indiſ<g ref="char:EOLhyphen"/>poſed to the duties of Religion.</p>
+            <p>Let your hearts be upright with God, and be you faithfull to the Truth in giddy and declining Times. <hi>Buy the Truth at any rate;</hi>
+               <note place="margin">Prov. 23.3.</note> 
+               <hi>but part with it at no rate whatſoever.</hi> It will be your ſafety and
+<pb facs="tcp:170540:14"/>honour to retain and hold faſt the form of wholeſome words delivered to you, and to remain unſhaken in your Principles, though ſtormy winds of temptation and per<g ref="char:EOLhyphen"/>ſecution ſhould a<g ref="char:EOLhyphen"/>riſe, and blow upon you with a formi<g ref="char:EOLhyphen"/>dable and affright<g ref="char:EOLhyphen"/>ing fury. Though all men ſhould for<g ref="char:EOLhyphen"/>ſake Chriſt, yet do
+<pb facs="tcp:170540:15"/>not you forſake him. There are many windfals in Chriſts Orchard; be you like thoſe few remaining ber<g ref="char:EOLhyphen"/>ries in the top of the uppermoſt bough, abhorring diſunion and de<g ref="char:EOLhyphen"/>fection, and reſol<g ref="char:EOLhyphen"/>ving not to be rent (though with a vi<g ref="char:EOLhyphen"/>olent hand) from your Renowned Root. Mortifie
+<pb facs="tcp:170540:15"/>throughly, and be<g ref="char:EOLhyphen"/>times all itching deſire after novel<g ref="char:EOLhyphen"/>ty, leſt it break forth into the ſprea<g ref="char:EOLhyphen"/>ding and cruſty ſcab of Apoſtacy. Beg wiſdome of God, whereby you may be able to di<g ref="char:EOLhyphen"/>ſtinguiſh betwixt the <hi>voice of Chriſt, and the voice of a ſtranger.</hi> Be not taken with the flaring light of eve<g ref="char:EOLhyphen"/>ry
+<pb facs="tcp:170540:16"/>blazing Comet, and <hi>ignis fatuus,</hi> that would ſlock you into by-wayes, and dangerous paths. Keep your heads and hearts from being fly<g ref="char:EOLhyphen"/>blown with the unſavoury breath of every rotten<g ref="char:EOLhyphen"/>hearted Preacher. Take heed of go<g ref="char:EOLhyphen"/>ing forth, and dancing after their deluſive pipe, who
+<pb facs="tcp:170540:16"/>(the better to de<g ref="char:EOLhyphen"/>ceive, and draw you into the ſnare) pretend to rare and rich diſcoveries; leſt you come home with a <hi>vertigo</hi> in your heads, and be troubled with the <hi>ſtaggers</hi> in Religion ever af<g ref="char:EOLhyphen"/>ter.</p>
+            <p>I ſhall conclude with preſſing upon you that ſerious and ſavoury advice,
+<pb facs="tcp:170540:17"/>which his Excellen<g ref="char:EOLhyphen"/>cy the Lord Depu<g ref="char:EOLhyphen"/>ty, when at <hi>Corke</hi> in his late Progreſs, gave to the Chief of you, with ſome Juſtices of Peace of the Coun<g ref="char:EOLhyphen"/>try that were then preſent. You may remember that you were commanded, and incouraged,</p>
+            <p n="1">1. To put a ſtop to the overflowing flood of prophane<g ref="char:EOLhyphen"/>neſs,
+<pb facs="tcp:170540:17"/>by putting in execution the ſe<g ref="char:EOLhyphen"/>verall wholeſome Lawes that are in force againſt ſwear<g ref="char:EOLhyphen"/>ing, drunkenneſs, uncleanneſs, and the like enormous pra<g ref="char:EOLhyphen"/>ctiſes.</p>
+            <p n="2">2. To provide for the ſanctificati<g ref="char:EOLhyphen"/>on of the Sabbath, by making uſe of that power that is put into your hands, in puniſhing and
+<pb facs="tcp:170540:18"/>ſuppreſſing its too frequent, and A<g ref="char:EOLhyphen"/>theiſtical violation. Let it not lie as a reproach on <hi>Corke,</hi> that Ordinance-de<g ref="char:EOLhyphen"/>ſpiſers, and Sabbath<g ref="char:EOLhyphen"/>breakers cannot be ſo ſecure from the ſtroke and dint of Juſtice in any place in <hi>Ireland</hi> as in this.</p>
+            <p n="3">3. To make uſe of provided and proſcribed means
+<pb facs="tcp:170540:18"/>for the converſion of the Popiſh <hi>Iriſh</hi> within your Juriſ<g ref="char:EOLhyphen"/>diction. The work is deſirable, and of grand concernment, conducing where<g ref="char:EOLhyphen"/>unto among ma<g ref="char:EOLhyphen"/>ny other are the following expedi<g ref="char:EOLhyphen"/>ents.</p>
+            <p n="1">1. The bringing of the Natives to the Puklick Wor<g ref="char:EOLhyphen"/>ſhip. <hi>Compel them to come in, that Gods
+<pb facs="tcp:170540:19"/>houſe may be full.</hi> Bring them within the compaſs of the net, if ever you expect they ſhould be caught. Let not their rooted and peeviſh loth<g ref="char:EOLhyphen"/>neſs to attend up<g ref="char:EOLhyphen"/>on the Ordinances deterre you from doing your duty. They that now quarrel and con<g ref="char:EOLhyphen"/>tend with you, as being too ſevere
+<pb facs="tcp:170540:19"/>and harſh, will in the day of viſitati<g ref="char:EOLhyphen"/>on glorifie God, and call you bleſ<g ref="char:EOLhyphen"/>ſed.</p>
+            <p n="2">2. The remove<g ref="char:EOLhyphen"/>ing and tranſplant<g ref="char:EOLhyphen"/>ing of ſuch as (to uſe his Excellencies own words) are ſtiffe and ſullen in their way; and are not only poſſeſſed themſelves with grinning prejudices againſt the Prote<g ref="char:EOLhyphen"/>ſtant
+<pb facs="tcp:170540:20"/>Religion, but do likewiſe make it their deſign to create and continue the like prejudices in the reſt of their Brethren, who poſ<g ref="char:EOLhyphen"/>ſibly might other<g ref="char:EOLhyphen"/>wiſe be reclaimed, and brought unto the knowledge of the truth.</p>
+            <p>Remember the Oath of God with which you are bound to act and
+<pb facs="tcp:170540:20"/>rule according to Law, and be you faithful unto your Truſt. Yield O<g ref="char:EOLhyphen"/>bedience to his Excellencies Com<g ref="char:EOLhyphen"/>mands in the ex<g ref="char:EOLhyphen"/>preſſed inſtances, and buckle in good earneſt to the buſi<g ref="char:EOLhyphen"/>neſs of Religion and Reformation, that ſo we may at length become <hi>a<g ref="char:EOLhyphen"/>mountain of holineſs, an habitation of righ<g ref="char:EOLhyphen"/>teouſneſs,</hi>
+               <pb facs="tcp:170540:21"/>in which the Lord will de<g ref="char:EOLhyphen"/>light to dwel, which ſhall be promoted by the prayers and indevours of</p>
+            <closer>
+               <dateline>
+                  <hi>From my Study in</hi> Corke <date>Sept. 7. 1658.</date>
+               </dateline>
+               <signed>Your Servant in the Lords work, <hi>JOSEPH EYRES.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:170540:21"/>
+            <head>THE EPISTLE TO THE READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>A Chriſtian (how plauſible ſoe<g ref="char:EOLhyphen"/>ver his pretences may
+<pb facs="tcp:170540:22"/>be) cannot be right at root, ſo long as the bare bulk of duty ſatisfies, without regard had to the manner of the per<g ref="char:EOLhyphen"/>formance. The ini<g ref="char:EOLhyphen"/>quity of holieſt things, and the ſinful adhe<g ref="char:EOLhyphen"/>rencies of the beſt duties are highly provoking, and ſuffi<g ref="char:EOLhyphen"/>ciently ponderous to depreſs and ſink the ſoul into the loweſt hell: ſo that it neer<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:170540:22"/>concerns us to en<g ref="char:EOLhyphen"/>ter upon ſpiritual employments, and in<g ref="char:EOLhyphen"/>gage in holy ſervices with much caution and circumſpection, for fear of a miſcar<g ref="char:EOLhyphen"/>riage. It's not with<g ref="char:EOLhyphen"/>out cauſe that the <hi>Spirit</hi> adviſeth us <hi>to keep our feet when we go to the houſe of God, and be more ready to hear than to give the ſacrifice of fools.</hi>
+               <pb facs="tcp:170540:23"/>The eare is the cun<g ref="char:EOLhyphen"/>duit-pipe thorough which grace comes flowing in to the ſoul, and therefore ſhould be kept open, which cannot be done whileſt the eye is ſhut.</p>
+            <p>My deſign is to apply the ſmarting <hi>eye-ſalve</hi> of the <hi>Spi<g ref="char:EOLhyphen"/>rit,</hi> that ſo the pec<g ref="char:EOLhyphen"/>cant and concerned may be cured of the wonted winking of their eyes.</p>
+            <pb facs="tcp:170540:23"/>
+            <p>The Subject in hand ſeems to be or<g ref="char:EOLhyphen"/>dinary, and to have little of ſublimity in it. But when I con<g ref="char:EOLhyphen"/>ſidered that every Pew almoſt hath its <hi>Eutychus;</hi> and that our Congregations do generally abound with luke-warm <hi>Laodice<g ref="char:EOLhyphen"/>ans,</hi> and are little better (many of them) than ſo many Con<g ref="char:EOLhyphen"/>ſorts of ſnoring Sleepers, which make
+<pb facs="tcp:170540:24"/>ſweet Muſick in the Divels eares, whoſe deſigne doubtleſs in mens preſent ſnort<g ref="char:EOLhyphen"/>ing is their future howling; I thought it my duty, as a Watchman, to do ſomething that might awaken. I am wil<g ref="char:EOLhyphen"/>ling to ſtir up and ſtartle thoſe, who whileſt they ſhould be <hi>ſmiting on their thighs,</hi> and laying their hands upon their
+<pb facs="tcp:170540:24"/>hearts, are in a yaw<g ref="char:EOLhyphen"/>ning poſture, and rub<g ref="char:EOLhyphen"/>bing their eyes, being ing poſſeſſed with a confuſed ſtupor; and it's a pretty while ere they can recover themſelves, and un<g ref="char:EOLhyphen"/>derstand where they are, and what about. I wiſh this ſmall Treatiſe may prove a mote at leaſt in the eye of the ſleepy Hearer, and make it water, which is the
+<pb facs="tcp:170540:25"/>way to be more watchful. Chriſtian Reader, be a diligent Hearer, and I have my end, who deſire to approve my ſelf</p>
+            <closer>
+               <signed>
+                  <hi>Thy faithful Monitor and Soul-Friend,</hi> Joſeph Eyres.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:170540:25"/>
+            <head>THE <hi>Church-Sleeper</hi> Awakened.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ACT. 20.9.</hi>
+                  </bibl> And there ſat in a window a certain young man, na<g ref="char:EOLhyphen"/>med <hi>Eutychus,</hi> being fallen into a deep ſleep, and as <hi>Paul</hi> was long preaching, he ſunk down with ſleep, and fell down from the third Loft, and was taken up dead.</q>
+            </epigraph>
+            <p>THE Apoſtle <hi>Paul,</hi> after much toilſome travel, and various agi<g ref="char:EOLhyphen"/>tations is now at <hi>Troas,</hi>
+               <pb n="2" facs="tcp:170540:26"/>a City in the leſſer <hi>Aſia;</hi> where not having long time to tarry, (for he made it his deſign (if poſſible) to be at <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> the day of Pente<g ref="char:EOLhyphen"/>coſt; and much ground was to be trod, and ma<g ref="char:EOLhyphen"/>ny places to be paſſed thorough, and ſome<g ref="char:EOLhyphen"/>thing for the furthe<g ref="char:EOLhyphen"/>rance of the Goſpel, to be diſpatched in thoſe places, ere he could get thither) he is reſolved to do as much good as he can in a little time.</p>
+            <p>We may not conceive him, idle any day; but ſurely on the Lords day he was more then ordi<g ref="char:EOLhyphen"/>narily
+<pb n="3" facs="tcp:170540:26"/>diligent and in<g ref="char:EOLhyphen"/>duſtrious.</p>
+            <p>The Diſciples, or the owners of the way of the Chriſtian Religion, be<g ref="char:EOLhyphen"/>ing on the Firſt Day of the Week met together in order to the hearing of the Word, and par<g ref="char:EOLhyphen"/>taking of the Ordinance of the Supper, <hi>Paul</hi> con<g ref="char:EOLhyphen"/>tinued his diſcourſe un<g ref="char:EOLhyphen"/>til midnight, being here<g ref="char:EOLhyphen"/>unto incouraged and ur<g ref="char:EOLhyphen"/>ged: 1. By the peo<g ref="char:EOLhyphen"/>ples raiſed and unwea<g ref="char:EOLhyphen"/>ried attention. 2. By his own reſolution to de<g ref="char:EOLhyphen"/>part on the morrow, <hi>ver.</hi> 7.</p>
+            <p>In theſe Primitive
+<pb n="4" facs="tcp:170540:27"/>Times the Lord was wont to accompany the word of his mouth with the wonderful works of his hand; witneſs the many Miracles then ef<g ref="char:EOLhyphen"/>fected, whereby the Lord would, 1. Con<g ref="char:EOLhyphen"/>vince Aliens. 2. Con<g ref="char:EOLhyphen"/>firm Diſciples, to whom ſuch props were of great advantage, becauſe the Doctrine embraced was,</p>
+            <list>
+               <item n="1">1. Novel, and there<g ref="char:EOLhyphen"/>fore attended with ſquint-eyed ſuſpitions.</item>
+               <item n="2">2. Contrary to car<g ref="char:EOLhyphen"/>nal reaſon, and there<g ref="char:EOLhyphen"/>fore invaded with puz<g ref="char:EOLhyphen"/>ling Objections.</item>
+               <item n="3">3. Deſtructive to the
+<pb n="5" facs="tcp:170540:27"/>intereſts of the fleſh, and therefore aſſaulted with a keen and deſperate oppoſition, not only from without, but alſo from within.</item>
+            </list>
+            <p>A conſiderable, and ſeaſonable Miracle was this in the Verſe ſuc<g ref="char:EOLhyphen"/>ceeding the Text, of which <hi>Paul</hi> was the mo<g ref="char:EOLhyphen"/>ral cauſe or inſtrument: <hi>Eutychus</hi> the recipient Subject, who whilſt a<g ref="char:EOLhyphen"/>ſleep ſtands in need of a bed; and being now dead, is fit for nothing but the grave. But the Lord had mercy on him, and did not only awaken but revive.</p>
+            <pb n="6" facs="tcp:170540:28"/>
+            <p>This young man was quite tired out with <hi>Pauls</hi> protracted, and uninterrupted diſcourſe; which being ſpun out to an unexpected length, deep ſleep ſeizes on him, and he fals from ſuch an heighth, that there remains nought elſe of the man, but a breathleſs trunk.</p>
+            <p>There is no reaſon why we ſhould bitterly inveigh againſt him, un<g ref="char:EOLhyphen"/>der the notion of a lazy Lozel, and muddy hea<g ref="char:EOLhyphen"/>ded Diſciple; for he ſought not out a blind nook, and obſcure cor<g ref="char:EOLhyphen"/>ner, wherein unobſer<g ref="char:EOLhyphen"/>vedly
+<pb n="7" facs="tcp:170540:28"/>to take a nap, and by this means gratifie the fleſh; only through the infirmity of the fleſh he is overcome. How<g ref="char:EOLhyphen"/>ever, he is not wholly to be excuſed. The acti<g ref="char:EOLhyphen"/>vity of grace muſt op<g ref="char:EOLhyphen"/>poſe and make head a<g ref="char:EOLhyphen"/>gainſt the inclinations of nature: and doubtleſs had he not been wanting unto himſelf, he might have been inabled to hold up his head as well as others: at leaſt, he might have prevented a total overwhelming and ſuccumbing under this drouzy diſtemper. The Point that I would
+<pb n="8" facs="tcp:170540:29"/>hence obſerve, is this:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> 
+               <hi>Sleeping in Church-Aſſemblies is a great ſin, and of dangerous conſe<g ref="char:EOLhyphen"/>quence.</hi>
+            </p>
+            <p>Many are mens miſ<g ref="char:EOLhyphen"/>carriages about the word.
+<note place="margin">Heb. 10.25.</note> Some <hi>forſake the aſſembling of themſelves together,</hi> and turn their backs upon the Ordi<g ref="char:EOLhyphen"/>nances, as if they were not worth the attending on:
+<note place="margin">Ezek. 33.21.</note> Others indeed <hi>come as the people cometh, and with their lips they ſhew much love;</hi>
+               <note place="margin">Eſay 29.13.</note> They <hi>draw nigh unto God with their mouths, and honour him with their lips,</hi> ſo that the addreſs ſeems to be
+<pb n="9" facs="tcp:170540:29"/>accompanied with a fla<g ref="char:EOLhyphen"/>ming affection, and a deep devotion <hi>but their hearts are far from him, going after their covetouſ<g ref="char:EOLhyphen"/>neſs;</hi> there is ſome baſe luſt or other doted on, and cockered with wan<g ref="char:EOLhyphen"/>tonneſt indulgence, not<g ref="char:EOLhyphen"/>withſtanding the clear convictions of the word, and their own profeſſed ſubjection to it: Others again entertain the word with a ſlighting unbe<g ref="char:EOLhyphen"/>lief,
+<note place="margin">Jer. 44.16.</note> peeviſh contradicti<g ref="char:EOLhyphen"/>ons, and a deſperate, de<g ref="char:EOLhyphen"/>clared reſolution, not to ſtoop to its authori<g ref="char:EOLhyphen"/>ty, and yeeld obedience to its commands. But
+<pb n="10" facs="tcp:170540:30"/>it is the ſleepy Hearer, whom I have to deal with at this time, and againſt whom I muſt ſpend ſome arrows, and diſcharge ſome cannons to awaken him. In the proſecution of the Point in hand, I ſhall only do theſe two things. 1. I ſhall propoſe ſeverall conſiderations by way of diſwaſion from the ſin, and provocation to the contrary practiſe. 2. I ſhall propoſe ſeve<g ref="char:EOLhyphen"/>rall directions by way of remedy and preven<g ref="char:EOLhyphen"/>tion.</p>
+            <p>The conſiderations are theſe that follow.</p>
+            <pb n="11" facs="tcp:170540:30"/>
+            <p n="1">1. Well weigh with your ſelves in whoſe preſence you are. Firſt, you are in the preſence of God, who though he be from no place exclu<g ref="char:EOLhyphen"/>ded, yet ſurely he is in the Aſſemblies of the Saints eſpecially pre<g ref="char:EOLhyphen"/>ſent. <hi>Exod.</hi> 20.24. <hi>In all places where I record my name, I will come un<g ref="char:EOLhyphen"/>to thee, and I will bleſs thee.</hi> In acts of worſhip we are ſaid to <hi>draw nigh him, Lev</hi> 10.2.</p>
+            <p>There are ſeverall things in God which be<g ref="char:EOLhyphen"/>ſpeak your attention.</p>
+            <p n="1">1. His tranſcendent excellency, and incom<g ref="char:EOLhyphen"/>prehenſible
+<pb n="12" facs="tcp:170540:31"/>greatneſs: The preſence of Maje<g ref="char:EOLhyphen"/>ſty doth awaken mean<g ref="char:EOLhyphen"/>neſs, and keeps all the faculties intent upon ſo furpaſſing an Object. If the awe and dread of an infinite, and all-glorious Being were upon us, it would not only ſome<g ref="char:EOLhyphen"/>what affect, but even affright, and cauſe you to lay aſide all deadneſs and drouzineſs of ſpirit. Me thinks the bright<g ref="char:EOLhyphen"/>neſs and ſplendour of that royal throne before which you preſent your ſelves, and lie proſtrate, ſhould awaken you even to aſtoniſhment and
+<pb n="13" facs="tcp:170540:31"/>conſternation, and keep your eyes open beyond all poſſibility of putting them together.</p>
+            <p n="2">2. His Omniſcience: Though you ſleep, yet God doth not ſo much as ſlumber; though your eyes be ſhut, yet his are not: Though you ſneak behind a pil<g ref="char:EOLhyphen"/>lar, or ſink down to the bottome of the Pew, yet you are ſtill in his eye. <hi>The Lord is in his holy Temple, the Lords throne is in heaven: his eyes behold, and his eye<g ref="char:EOLhyphen"/>lids try the children of men, Pſal.</hi> 11.4. He beholds the frame of
+<pb n="14" facs="tcp:170540:32"/>your ſouls, and takes exact notice of the po<g ref="char:EOLhyphen"/>ſture of your bodies. What ſervant would dare to ſleep, whilſth is Maſter ſtands by and looks on? One ſleepy Hearer cannot ſcape Gods obſervation in the moſt condenſed and crouded Congregation.</p>
+            <p n="3">3. His Holineſs, whereby he muſt needs be highly diſpleaſed with the undecent and unbeſeeming behaviour of thoſe who are inga<g ref="char:EOLhyphen"/>ged in his worſhip. The ſleepy Hearer is a mote in Gods bright eye, and very offenſive to his ſight.</p>
+            <pb n="15" facs="tcp:170540:32"/>
+            <p n="4">4. His Juſtice, which being awakened by his holineſs, is wont to make deep dints and impreſſions of revenge upon the objects of his diſpleaſure. Will a Lamb dare to ſleep within the paw and reach of an inraged Lion?</p>
+            <p>In the next place conſider the ends, on the account of which you come into Gods pre<g ref="char:EOLhyphen"/>ſence.</p>
+            <p n="1">1. To ſpeak to him in Prayer. I have heard of ſome that have tal<g ref="char:EOLhyphen"/>ked in their ſleep: I doubt whether theſe drouzy dreamers we are
+<pb n="16" facs="tcp:170540:33"/>ſpeaking of, do or can pray in their ſleep. A Prince would look upon it as an unſufferable af<g ref="char:EOLhyphen"/>front, if a Subject ſhould be found ſleeping in the Preſence-Chamher, when he ſhould be pre<g ref="char:EOLhyphen"/>ſenting his Petition. Chriſts Diſciples were ſleeping, when they ſhould have been pray<g ref="char:EOLhyphen"/>ing: now Chriſt bids them <hi>watch and pray;</hi> He knew full well, that if they did not <hi>watch,</hi> neither could they <hi>pray, Math.</hi> 26.41.</p>
+            <p n="2">2. To hear him ſpeak<g ref="char:EOLhyphen"/>ing unto you by the Miniſtery of the Word.
+<pb n="17" facs="tcp:170540:33"/>Our buſineſs is not only to poure out our com<g ref="char:EOLhyphen"/>plaints and requeſts into Gods boſome, but like<g ref="char:EOLhyphen"/>wiſe to receive anſwers and tidings of peace into ours. Now the ſleepy Hearer ſtops up the paſ<g ref="char:EOLhyphen"/>ſages thorough which the Lord is wont to con<g ref="char:EOLhyphen"/>vey his grace into the ſoul. I hope you are not of the opinion, that the Lord now ſpeaks to his people by dreams, and that therefore there is no need of a waking attention. Thus you ſee how the intercourſe be<g ref="char:EOLhyphen"/>twixt God, and ſleepy ſouls is interrupted and
+<pb n="18" facs="tcp:170540:34"/>dammed up. Surely that muſt needs be a very great ſin, that doth obſtruct duty, and ren<g ref="char:EOLhyphen"/>ders the Ordinances of God fruſtraneous and ineffectual. Secondly, you are in the preſence of the Angels, who are wont to frequent the ſolemn and ſacred Aſ<g ref="char:EOLhyphen"/>ſemblies of the Saints, (which ſeems proveable from 1 <hi>Cor.</hi> 11.10.) and to take notice of any diſorders in ſacred Conventions. You can<g ref="char:EOLhyphen"/>not make a wry mouth, laugh, fleere in the Mi<g ref="char:EOLhyphen"/>niſters face, take a nap, be guilty of a laſcivious
+<pb n="19" facs="tcp:170540:34"/>glance, wanton look, or any other immodeſt be<g ref="char:EOLhyphen"/>haviour, but it is done, not only in the preſence of the God of heaven, but alſo in the preſence of the Angels of heaven, who are ſtrict obſervers of you, and have a watchful eye upon you. Beſides, the Angels do with much wonder and delight make inſpection into the profound My<g ref="char:EOLhyphen"/>ſteries of the Goſpel,
+<note place="margin">Eph. 3.10.</note> manifeſted and made known to and by the Church, 1 <hi>Pet.</hi> 1.12. if you did ſo too, you would not be poſſeſſed with ſuch a ſpirit of
+<pb n="20" facs="tcp:170540:35"/>ſlumber as you are.</p>
+            <p>Thirdly, you are in the preſence of the Church. You are now in Gods family, not your own. You may not take liberty to do that here, which you would make no ſcruple of to do at home. Any publick Aſſembly, eſpecially of Saints, and they inga<g ref="char:EOLhyphen"/>ged in a worke of the higheſt nature, requires an aweful and reſpective behaviour in ſuch as do attend it. We may not offend any, much leſs the Church, 1 <hi>Cor.</hi> 10.32. We may not offend a ſingle Saint,
+<pb n="21" facs="tcp:170540:35"/>much leſs a Society of ſuch.</p>
+            <p>Beſides, the Church is an orderly Society; all things in it, ſhould be done <hi>decently and in or<g ref="char:EOLhyphen"/>der,</hi> 1 <hi>Cor.</hi> 14.10. Whilſt one is ſinging, another ſhould not be ſnoring.</p>
+            <p n="2">2. Conſider, whoſe work it is that you are about. We are not only in Gods preſence, but are alſo employed in Gods work. Now we are commanded to be <hi>fervent in ſpirit, whilſt we ſerve the Lord, Rom.</hi> 12.11. It becomes not Gods ſervants of
+<pb n="22" facs="tcp:170540:36"/>any, to be of a drouzy diſpoſition; eſpecially, when they ſhould be di<g ref="char:EOLhyphen"/>ligent and intent upon their Maſters buſineſs.</p>
+            <p>Its hard if you cannot watch with Chriſt one hour. Chriſt did watch and pray in the Garden; the Diſciples ſhould have done ſo too, and have kept him compa<g ref="char:EOLhyphen"/>ny, <hi>Matth.</hi> 26.40.</p>
+            <p>It was a patheticall expoſtulation that of Chriſt, <hi>Could you not watch with me one houre? q. d.</hi> If any of your Friends and neer Rela<g ref="char:EOLhyphen"/>tions were pained in body, and perplexed in
+<pb n="23" facs="tcp:170540:36"/>minde, if they lay under the thouſandth part of that agony and anguiſh of ſpirit that I lie under, you would have watch<g ref="char:EOLhyphen"/>ed with them, and why then can you not watch with me? Yea, you would have watched all night with them untill the dawning of the day, and is it poſſible that you can not watch with me one houre! I could pray for you in a Moun<g ref="char:EOLhyphen"/>tain, and cannot you pray with me in a Gar<g ref="char:EOLhyphen"/>den! I could ſpend a great part of the night in prayer for you, and can you not ſpend an
+<pb n="24" facs="tcp:170540:37"/>houre of the night in prayer with me! Me thinks it ſhould not be ſuch a tireſome task and intollerable.</p>
+            <p>The ſervice of God doth deſervedly require the utmoſt ardour and intenſeneſs of ſpirit; the moſt elevated, in<g ref="char:EOLhyphen"/>larged, inflamed affecti<g ref="char:EOLhyphen"/>ons, that creatures are capable of.</p>
+            <p>
+               <hi>Whatſoever our hand findeth to do,</hi> eſpecially in matters ſpirituall, <hi>ſhould be done with all our might.</hi>
+            </p>
+            <p n="3">3. The work that you are emploied about, is of loftieſt conſequence,
+<pb n="25" facs="tcp:170540:37"/>and concernment. Your ſouls are concerned in it: Life and death are before you. We ſhould hearken to the word of God, <hi>as for our lives, for it is our life, Deut.</hi> 32.46, 47. VVhat a man doth for his life, he will do with the utmoſt vi<g ref="char:EOLhyphen"/>gour and vivacity.</p>
+            <p>VVith what panting and preſſing earneſtneſs doth an almoſt famiſht and hunger-bitten beg<g ref="char:EOLhyphen"/>ger cry for bread!</p>
+            <p>VVith what awake<g ref="char:EOLhyphen"/>ning, heart-penetrating expreſſions doth a Priſo<g ref="char:EOLhyphen"/>ner at the bar plead for his life! Not a word
+<pb n="26" facs="tcp:170540:38"/>paſſeth unobſerved by him, he doth with much greedineſs of attention hearken to the Evidence of VVitneſſes, Ver<g ref="char:EOLhyphen"/>dict of the Jury, Sen<g ref="char:EOLhyphen"/>tence of the Judge; and no wonder, for his life lies at the ſtake. He muſt be either acquitted and live, or elſe con<g ref="char:EOLhyphen"/>demned and dye.</p>
+            <p>You who are here this day, muſt be tried by that word which you hear; by it your eter<g ref="char:EOLhyphen"/>nall eſtates and conditi<g ref="char:EOLhyphen"/>ons muſt be caſt. Now, whoſe eares would not be tickled with extraor<g ref="char:EOLhyphen"/>dinary delight at the
+<pb n="27" facs="tcp:170540:38"/>hearing of the promiſes of life! and whoſe eares would not glow and tin<g ref="char:EOLhyphen"/>gle at the denunciations and threatnings of eter<g ref="char:EOLhyphen"/>nall death! But the miſchief on it is, the Church-Sleeper is like the Smiths dog, whom neither the hammers above him, nor the ſparks of fire falling round about him, can awaken.</p>
+            <p n="4">4. You are not wont to ſleep whilſt you are about your own work. You riſe up early, and ſit up late, and do with much eagerneſs and un<g ref="char:EOLhyphen"/>weariedneſs proſecute
+<pb n="28" facs="tcp:170540:39"/>your own affairs. The Husbandman doth not ſleep with his Plough in his hand; neither doth the Pilot ſleep, whilſt he is at the helm, guiding the Ship.</p>
+            <p>Though you ſleep in the Church, yet you do not ſleep in the ſhop, whileſt you have any thing to do, and cuſto<g ref="char:EOLhyphen"/>mers to attend. How contentedly will you re<g ref="char:EOLhyphen"/>frain from eating, drin<g ref="char:EOLhyphen"/>king, ſleeping all the day long, nay and a great part of the night too, provided the merry penny may be coming in thewhiles.</p>
+            <pb n="29" facs="tcp:170540:39"/>
+            <p>You can ſit chatting and diſcourſing with your Friends many hours, and its very late many times ere you can part: but when you come into Gods pre<g ref="char:EOLhyphen"/>ſence to enjoy fellow<g ref="char:EOLhyphen"/>ſhip and communion with him, you are nod<g ref="char:EOLhyphen"/>ding preſently, and there you ſit like ſo many liveleſs logs and ſenſeleſs ſtatues.</p>
+            <p>I have heard of feaſts that have laſted four or five hours; but hardly of any Gueſts that were ſleeping whileſt others were eating. But when people come to feaſt
+<pb n="30" facs="tcp:170540:40"/>with God, to make a meale upon an Ordi<g ref="char:EOLhyphen"/>nance, they cannot hold open their eyes for their hearts.</p>
+            <p>You are not wont to ſleep whilſt the naturall glaſs is before you; but when the pure chryſtall glaſs of the Law is by the Miniſter held forth unto you, and ſet before you, (as loth belike to behold what manner of perſons you are) you wink with the eye.</p>
+            <p n="5">5. VVicked men do not ſleep whilſt they are about the Divels work. If <hi>Judas</hi> have a treache<g ref="char:EOLhyphen"/>rous plot in hand, out
+<pb n="31" facs="tcp:170540:40"/>of doors he will, though in the night, and put his black guard in order: a ſoft downy pillow is no place for his working contriving head: Being hurried and haraſſed by the Divel, he cannot by the darkneſs and ſilence of the night be flattered into the leaſt ſlumber.</p>
+            <p>The eye that is full of adultery, doth not ſleep in the Congrega<g ref="char:EOLhyphen"/>tion, but is continually roving about to find out objects for a foul and frothy fancy to work upon; and being found out, they are gazed on with much greedineſs
+<pb n="32" facs="tcp:170540:41"/>and delight. The A<g ref="char:EOLhyphen"/>dulterer will be waking, and walking abroad in the dark and black night, that ſo he may give his Drab a meeting, <hi>Prov.</hi> 7.9.</p>
+            <p>
+               <hi>Ahab</hi> lies toſſing and tumbling upon his bed, and cannot take any reſt, untill he be poſſeſſed of <hi>Naboths</hi> Vineyard, 1 <hi>King.</hi> 21.4. And <hi>Amnon</hi> is in little better plight till he have his will on his Siſter <hi>Tamar,</hi> 2 <hi>Sam.</hi> 13.2.</p>
+            <p>How uſual a thing is it for the Divels Imps, I mean the roaring Ruf<g ref="char:EOLhyphen"/>fians, and Bacchanalian
+<pb n="33" facs="tcp:170540:41"/>Royſters of the times, to ſpend whole dayes and nights in quaffing, carouſing, gaming, <hi>&amp;c.</hi> They have not the leaſt luſt to ſleep in the midſt of ſo much mirth, Mu<g ref="char:EOLhyphen"/>ſick, and madneſs. VVith what whickering attention do they hear<g ref="char:EOLhyphen"/>ken to a roguiſh Fidler that will ſing them a ſordid and filthy Song! Any Muſick keeps them waking, a mid<g ref="char:EOLhyphen"/>night Mask, or paltry Poppet-play, how doth it affect, and make men dance an unwearied at<g ref="char:EOLhyphen"/>tendance, who yet are no more affected with
+<pb n="34" facs="tcp:170540:42"/>the admirable contri<g ref="char:EOLhyphen"/>vance, and ſublime diſ<g ref="char:EOLhyphen"/>coveries of the Goſpel, then ſo many ſtocks and ſtones, ſave the Muſick of the Temple!</p>
+            <p n="6">6. It's a ſin that is mightily promoted by the Divel</p>
+            <p>He knows of what fatall conſequence it is unto his kingdome, for people to hearken unto the word of life, which is as an hammer to knock off the bolts from the galled feet of his chained Captives: and therefore he ende<g ref="char:EOLhyphen"/>vours by all wayes and means imaginable to
+<pb n="35" facs="tcp:170540:42"/>diſtract, divert, and take you off from the preſent work and buſineſs that is before you. He will be ſure to ſit very heavy on your eye-lids, and cloſe them if poſſible. The Prince of darkneſs ſtartles at the approach of light, and therefore will be ſure to draw the curtain, and ſhut the window to keep it out. The nodding head leans on the Divels boſome. The ſleepy Hearer is rockt in the Divels cra<g ref="char:EOLhyphen"/>dle, and dandled on the Divels knee.</p>
+            <p n="7">7. A ſleepy eye is a ſhrewd ſign of a ſleepy
+<pb n="36" facs="tcp:170540:43"/>conſcience, and a ſottiſh inſenſibility of matters ſpirituall. A fat heart, a deaf eare, and a cloſed eye, go hand in hand, <hi>Eſa.</hi> 6.10. A waking conſcience is uſually at<g ref="char:EOLhyphen"/>tended with a watchfull eye. They who work out their ſalvation with fear and trembling, will look about them.</p>
+            <p n="8">8. You may out-ſleep that truth wherein you are neerly concerned, and which if attended to, might prove ſucceſs<g ref="char:EOLhyphen"/>fully inſtrumentall for your converſion, conſo<g ref="char:EOLhyphen"/>lation.</p>
+            <p>There is no one truth
+<pb n="37" facs="tcp:170540:43"/>to be ſlighted, diſregar<g ref="char:EOLhyphen"/>ded; but ſurely thoſe truths that reach your particular condition, ſhould be entertained with exacteſt obſerva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>You know not when that plaiſter will be ſpread and applyed, that is moſt ſuitable to your ſore. You know not at what time that me<g ref="char:EOLhyphen"/>dicine will be admini<g ref="char:EOLhyphen"/>ſtred that is moſt likely to cure thoſe ſpirituall maladies and diſtempers that you labour under, and therefore it's wiſ<g ref="char:EOLhyphen"/>dome to be wary and watchfull.</p>
+            <pb n="38" facs="tcp:170540:44"/>
+            <p>Poſſibly there may be ſome way of wicked<g ref="char:EOLhyphen"/>neſs, which you ſecure<g ref="char:EOLhyphen"/>ly walk in; ſome ne<g ref="char:EOLhyphen"/>ceſſary duty, which you live in the neglect of; ſome griezly tempta<g ref="char:EOLhyphen"/>tion, with which you are aſſaulted: now if you ſhould be ſleeping, when theſe things are pathetically and power<g ref="char:EOLhyphen"/>fully ſpoken to, you may ſtill live in the practiſe of that ſin, in the neg<g ref="char:EOLhyphen"/>lect of that duty; and be overwhelmed with that temptation to your ruine.</p>
+            <p n="9">9. This may be the laſt Sermon that ever
+<pb n="39" facs="tcp:170540:44"/>you may hear; and I am confident, could you be aſſured of it, that it would be ſo, it would mightily ſtartle.</p>
+            <p>There will be ſuch a thing as the laſt prayer that ever you ſhall put up; the laſt Chapter that you ſhall reade; the laſt Sermon that you ſhall hear: it be<g ref="char:EOLhyphen"/>hoves you therefore with utmoſt induſtry to improve the preſent opportunity: Hearken to the voice of God whilſt it is called to day; you do not know whether ever you may hear that voice again behind you,
+<pb n="40" facs="tcp:170540:45"/>ſaying unto you, This is the way, walk in it, ſhut not your eyes a<g ref="char:EOLhyphen"/>gainſt the light that now ſhines, for you do not know whether ever your eyes may again behold a riſing ſun, and diſper<g ref="char:EOLhyphen"/>ſed beams.</p>
+            <p n="10">10. The Lord may take you away in your ſleep. The inſtance of this young man in the Text (one would think) ſhould make you trem<g ref="char:EOLhyphen"/>ble. You that come alive into the Congre<g ref="char:EOLhyphen"/>gation, may be carried out dead. You that do not attentively hear<g ref="char:EOLhyphen"/>ken to what the Mini<g ref="char:EOLhyphen"/>ſter
+<pb n="41" facs="tcp:170540:45"/>hath to ſay unto you, may be ſuddenly ſtruck dead in the place, ſnatcht out of your ſeats, drag<g ref="char:EOLhyphen"/>ged to Chriſts Tribunal, and there conſtrained to hearken unto what the great Judge of heaven and earth hath to ſay unto you, who will ſpeak in ſuch language, and in ſuch a tone, as will make your ſouls to ſhake and ſhiver. It's more dreadfull to dye whilſt aſleep in Gods houſe, than to dye whilſt aſleep in your own.</p>
+            <p n="11">11. There is no ſleeping in hell. There will not be the leaſt
+<pb n="42" facs="tcp:170540:46"/>minutes reſt taken to eternity. <hi>The ſmoke</hi> of wicked mens <hi>torment aſcendeth up for ever and ever, and they have no reſt day nor night, Rev.</hi> 14.11. You that can ſo confi<g ref="char:EOLhyphen"/>dently ſleep in the Church, ſhall not be able to ſleep in the fiery lake: The extremity of torment, the conti<g ref="char:EOLhyphen"/>nuall gnawing of the never dying worm, and the hideous howlings of Divels, and fellow-dam<g ref="char:EOLhyphen"/>ned wights, will keep you waking in ſpight of your hearts.</p>
+            <p>How welcome would a few houres ſleep be to
+<pb n="43" facs="tcp:170540:46"/>thoſe, who are ſweating and ſweltring in ſeave<g ref="char:EOLhyphen"/>riſh flames, and for many nights together have been full of toſſings to and fro until the daw<g ref="char:EOLhyphen"/>ning of the day? But O! how tranſcendently and ſurpaſſingly wel<g ref="char:EOLhyphen"/>come would a minutes reſt and repoſe be to thoſe, who for millions of years have been roſt<g ref="char:EOLhyphen"/>ing and roaring in the everlaſting flames? But alas! it cannot be. Who but a fool and a mad man would for a little preſent ſinfull eaſe and reſt, plunge himſelf into an intollerable, reſtleſs
+<pb n="44" facs="tcp:170540:47"/>ſtate and condition that knows no end! If this prove not an awakening conſideration, I know not what will.</p>
+            <p n="12">12. There is no ſleeping in heaven. That which is the mi<g ref="char:EOLhyphen"/>ſery of the damned, is the happineſs of the ſaved. <hi>Rev.</hi> 4.8. <hi>They reſt not day and night, ſaying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.</hi> The Angels do not want ſleep; neither ſhall the Saints when they are tranſlated to the upper Patadiſe. Whilſt we are in this
+<pb n="45" facs="tcp:170540:47"/>animall ſtate, nature cannot bear up under continued watchings, refreſhing, and reſt. Chriſt himſelf did not ſpend all his dayes in acts of immediate wor<g ref="char:EOLhyphen"/>ſhip, he conſumed not every night in prayer and holy meditations: We reade as of his eating and drinking, ſo of his ſleeping. But when theſe <hi>naturall</hi> Bo<g ref="char:EOLhyphen"/>dies ſhall be raiſed <hi>ſpi<g ref="char:EOLhyphen"/>rituall</hi> Bodies, the ſub<g ref="char:EOLhyphen"/>lime employment of eternal Hallelujahs will not tire, or cauſe in us the leaſt inclination to a drouſie deſpondency.
+<pb n="46" facs="tcp:170540:48"/>It ſhould be our deſire and endeavour to ſerve God here, as Saints and Angels ſerve him in heaven, without weari<g ref="char:EOLhyphen"/>neſs and deadneſs.</p>
+            <p>Having thus diſpatch<g ref="char:EOLhyphen"/>ed the conſiderations by way of motive, I now come unto the di<g ref="char:EOLhyphen"/>rections by way of re<g ref="char:EOLhyphen"/>medy and prevention of this ſinfull diſtemper de<g ref="char:EOLhyphen"/>clared againſt.</p>
+            <p n="1">1. Set your ſelves as in Gods preſence. La<g ref="char:EOLhyphen"/>bour to ſee him by the eye of <hi>Faith,</hi> who is inviſible to the eye of <hi>ſenſe.</hi> Being not aware before whom we are,
+<pb n="47" facs="tcp:170540:48"/>and with whom we have to do, we are the more eaſily overtaken.</p>
+            <p>If in the Congregati<g ref="char:EOLhyphen"/>on, we were in the pre<g ref="char:EOLhyphen"/>ſence, and cloſe by the ſide of earthly majeſty, and were ſurrounded and obſerved by Prin<g ref="char:EOLhyphen"/>ces and Nobles, I dare ſay, there would be ſuch an awe upon us, that we ſhould not dare to ſleep, or be guilty of the leaſt incivillity and undecency of deport<g ref="char:EOLhyphen"/>ment. O then, why doth not the approach and preſence of the God of glory, before whom the Divels trem<g ref="char:EOLhyphen"/>ble,
+<pb n="48" facs="tcp:170540:49"/>ble, and the Angels veil, not daring to be<g ref="char:EOLhyphen"/>hold with unmasked faces, worke in us far deeper impreſſions of awefulneſs, and ingage us to the utmoſt attenti<g ref="char:EOLhyphen"/>on and watchfulneſs.</p>
+            <p>The truth of it is, God is not minded, and hence it is that his work is ſo ſlightly ſlubbered over.</p>
+            <p>If God were in our eye, our eyes, eares, hearts, would all be open to attend and entertain him.</p>
+            <p n="2">2. Bring your Bibles with you; and that not for a vain ſhew, and
+<pb n="49" facs="tcp:170540:49"/>oſtentation, to be taken notice of for a pious devout reſpect to ſacred Writ; but keep pace with the Miniſter, whilſt he reades the Word; and turn to thoſe Texts of Scripture that he quotes. If this lauda<g ref="char:EOLhyphen"/>ble courſe were gene<g ref="char:EOLhyphen"/>rally and duly obſerved, Truths delivered would better be remembred, and the unhanſome in<g ref="char:EOLhyphen"/>convenience of ſleeping in Church Aſſemblies would be prevented.</p>
+            <p>It's reported of the <hi>Scots,</hi> by thoſe who have been preſent at their Aſſemblies, that
+<pb n="50" facs="tcp:170540:50"/>when the Preacher names a place of Scrip<g ref="char:EOLhyphen"/>ture, the people pre<g ref="char:EOLhyphen"/>ſently and nimbly turn to it, ſo that there is heard in the Congrega<g ref="char:EOLhyphen"/>tion a ruſhing noiſe or ſound, like the flutte<g ref="char:EOLhyphen"/>ring of a mighty flock of birds, that are haſtily riſing, and getting upon the wing.</p>
+            <p>But many may ſay unto me, Alas Sir! woe and alas! what ſhall we do? we for our parts can not reade a word: O! how willingly would we make uſe of the Bible both in publick, and in private, provided
+<pb n="51" facs="tcp:170540:50"/>we were book-learned as others are! And cannot you reade in<g ref="char:EOLhyphen"/>deed? the more to blame are thoſe who have had the charge and care of your educa<g ref="char:EOLhyphen"/>tion: and the more to blame your ſelves, this ignorance of yours be<g ref="char:EOLhyphen"/>ing poſſibly the pro<g ref="char:EOLhyphen"/>duct of a lazy neglect, and lothneſs to take pains.</p>
+            <p>And here now, be<g ref="char:EOLhyphen"/>cauſe 'tis ſeaſonable, let me lay a ſtrict charge, and ſevere injunction on Parents eſpecially, and Maſters of Families, to provide for the in<g ref="char:EOLhyphen"/>ſtruction
+<pb n="52" facs="tcp:170540:51"/>of their chil<g ref="char:EOLhyphen"/>dren, and ſervants, that ſo they may be able to diſcern a difference be<g ref="char:EOLhyphen"/>twixt a Bible, and a Block, not only by the ſh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pe and external fi<g ref="char:EOLhyphen"/>gure, but alſo by the in<g ref="char:EOLhyphen"/>ternal and comfortable contents.</p>
+            <p n="3">3. Be exhorted to write Sermon-Notes, you that can; and you that cannot, learn to do it. It prevents not on<g ref="char:EOLhyphen"/>ly a ſleeping eye, but a wandring eye.</p>
+            <p>It has been my ob<g ref="char:EOLhyphen"/>ſervation of ſome, that whenſoever they have omitted taking notes,
+<pb n="53" facs="tcp:170540:51"/>they have been as ſure to ſleep, as if high noon were midnight, and their Pew a ſoft bed. Flatter not your ſelves with a vain con<g ref="char:EOLhyphen"/>ceit, that your extraor<g ref="char:EOLhyphen"/>dinary, and almoſt in<g ref="char:EOLhyphen"/>vincible proneneſs to ſleep, by reaſon of your natural temper, ſhall hold you excuſed, ſo long as you obſtinately refuſe to make uſe of Bible and Pen, by which this ſo great a miſchief might undoubtedly be be prevented. I hope you do not count it a diſparagement and un<g ref="char:EOLhyphen"/>dervaluing to you to
+<pb n="54" facs="tcp:170540:52"/>take notes after the Mi<g ref="char:EOLhyphen"/>niſter? King <hi>Edward</hi> the Sixth did not; and to peruſe them, and medi<g ref="char:EOLhyphen"/>tate on them afterwards, for the fixing and ingra<g ref="char:EOLhyphen"/>ving of truth in his mind, and memory.</p>
+            <p n="4">4. <hi>Have you not houſes of your own?</hi> there you may ſleep with leſſe ſcandal, and inconveni<g ref="char:EOLhyphen"/>ence to your ſelves, and others. If there be no no remedy but you muſt needs take a nap in the day time (which ſome can hardly refrain, be<g ref="char:EOLhyphen"/>ing thereto neceſſitated by a continued cuſtome) it's better you ſhould do
+<pb n="55" facs="tcp:170540:52"/>it in private, then in publick.</p>
+            <p>But becauſe men are too prone to gratifie the fleſh, and indulge the eaſe of the outward man, I ſhall intreat you to be very ſpare, and temperate, and allow your ſelves as little li<g ref="char:EOLhyphen"/>berty as may be. Far be it from you, that you ſhould be of the number of thoſe Swine, rather then Saints; thoſe Hogs rather then Chriſtians, who lye grunting, yawning, ſtretching in their beds the forenoon of the Sab<g ref="char:EOLhyphen"/>bath, and are hardly up
+<pb n="56" facs="tcp:170540:53"/>and dreſt by dinner time: or of the number of thoſe ſordid ſlow bellies, who are wont to reſerve the afternoon of the Lords day for reſt, and a lazy retire<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="5">5. <hi>Principiis obſta,</hi> ſtop the beginnings. When you perceive in your ſelves an inclina<g ref="char:EOLhyphen"/>tion to nod, and that a ſoft ſlumber begins to ſeiſe upon you, preſent<g ref="char:EOLhyphen"/>ly ſtart up as one aſto<g ref="char:EOLhyphen"/>niſh'd at the apprehen<g ref="char:EOLhyphen"/>ſion of ſome grand ap<g ref="char:EOLhyphen"/>proaching evil; ſtand upon your guard, and keep the incroaching
+<pb n="57" facs="tcp:170540:53"/>enemy at a diſtance.</p>
+            <p n="6">6. Feed ſparingly, eſpecially on the Lords day. Great Eaters are uſually great Sleepers. From an over full ſto<g ref="char:EOLhyphen"/>mach aſcend obnubila<g ref="char:EOLhyphen"/>ting fumes, which op<g ref="char:EOLhyphen"/>preſs the brain, and lock up the paſſages of the ſpirits, and thereby diſpoſe to ſleep. Where the heart is overcharged with drunkenneſs and exceſs, it produceth ſadneſs, ſearedneſs, ſtupidity, blockiſhneſs, inadvertency, forget<g ref="char:EOLhyphen"/>fulneſs, dulneſs in duty, and a ſupine negligence in ſoul-concernments.
+<pb n="58" facs="tcp:170540:54"/>They that faſt much, can watch beſt. Hence ſobriety, and watchful<g ref="char:EOLhyphen"/>neſs are joyned together. 1 <hi>Pet.</hi> 5.8. <hi>Be ſober, be vigilant.</hi>
+            </p>
+            <p n="7">7. Let not ſorrow too much ſeiſe upon you, and prevail over you; it's of a ſtupifying, and beſotting nature: the Diſciples in the Garden found it ſo. <hi>Luk.</hi> 22.45. Griefe contracts the heart, and hinders the egreſs of ſpirits to the ſeveral Organs in which they move; yea it exhauſts the ſpirits, and hinders concoction, ſo that
+<pb n="59" facs="tcp:170540:54"/>groſs and black vapours invade the brain, which are the cauſe of ſleep. <hi>Gerherd</hi> in his Harmony is of the opinion, that <hi>Jonah</hi>'s profound ſleep in the ſide of the Ship was occaſioned by grief, he knowing full well that for his flying from the preſence of the Lord, the tempeſt was raiſed, and the Ship in<g ref="char:EOLhyphen"/>dangered.</p>
+            <p n="8">8. Take heed of a lolling, and lazy poſture of body; it argues irre<g ref="char:EOLhyphen"/>verence, and doth diſ<g ref="char:EOLhyphen"/>poſe to drouzineſs. Standing I would com<g ref="char:EOLhyphen"/>mend as a more watch<g ref="char:EOLhyphen"/>ful
+<pb n="60" facs="tcp:170540:55"/>poſture, and to be preferred before ſitting, eſpecially in Prayer. They that bow down their heads, and reſt them upon their hands, will not long be awake.</p>
+            <p n="9">9. Let your eye be much upon the Mini<g ref="char:EOLhyphen"/>ſter. It's ſaid of Chriſts Hearers, <hi>Luk.</hi> 4.20. That <hi>their eyes were faſtned on him.</hi> A good help againſt diſtra<g ref="char:EOLhyphen"/>ctions.
+<note place="margin">Trap in loc.</note> Our hearts are fickle and fugitive, if not hard held to it. The ſight of the eye affects the heart. It's the Priſoners ſeeing, as well as hearing of the
+<pb n="61" facs="tcp:170540:55"/>Judge, that makes him attentive to aſtoniſh<g ref="char:EOLhyphen"/>ment. When the heart is ſtirred, and awakened, the eye cannot eaſily be cloſed.</p>
+            <p n="10">10. Ingage your neigh<g ref="char:EOLhyphen"/>bour that ſits by you, to have a watchful eye up<g ref="char:EOLhyphen"/>on you, and to pluck you by the ſleeve, if occaſi<g ref="char:EOLhyphen"/>on be. Its pity that any ſhould be in danger of ſleeping the ſleep of death for want of a faithful friend to rouſe up and awaken.</p>
+            <p>If your Brothers Oxe be fallen into a ditch, you will put to an help<g ref="char:EOLhyphen"/>ing hand, and pluck it
+<pb n="62" facs="tcp:170540:56"/>out: and ſhall your Brother himſelf lye lolling and ſnoring in the Divels lap, and you not ſo much as jogge him by the elbow, and make him ſenſible of his danger?</p>
+            <p n="11">11. Betake your ſelves to reſt the night before, in good time. Sitting up late the Sa<g ref="char:EOLhyphen"/>turday nights doth wonderfully deadden, and indiſpoſe to the duties of the following day. Sleep in your beds, that you may not ſleep in your Pews. Sleep in the night, that you may not ſleep in the day.</p>
+            <pb n="63" facs="tcp:170540:56"/>
+            <p>Coming home at midnight from diſ<g ref="char:EOLhyphen"/>patching buſineſſes, viſiting Friends; or which is worſe, from drinking, gaming, re<g ref="char:EOLhyphen"/>velling, puts the body and mind out of order, and is a bad preparative for the approaching Sabbath.</p>
+            <p n="13">13. Come to the word with expectation. Whenſoever you attend upon the Ordinances, look for ſomething, yea, for greater things from the hands of God. They are vigilant who are in a waiting poſture. Beggers are not wont
+<pb n="64" facs="tcp:170540:57"/>to ſleep before the gates of thoſe from whom they expect an almes. <hi>The eyes of ſer<g ref="char:EOLhyphen"/>vants look unto the hand of their Maſters, and the eyes of a Maiden unto the hand of her Miſtriſs,</hi> when ſome boon and bounty is expected, <hi>Pſalm</hi> 123.2. If out of a clear ſight, and deep ſenſe of our own unworthineſs, weak<g ref="char:EOLhyphen"/>neſs, wretchedneſs, we came unto God for ſupply of wants, aſſiſt<g ref="char:EOLhyphen"/>ance in ſervice, ſatiſ<g ref="char:EOLhyphen"/>faction in doubts, aſſu<g ref="char:EOLhyphen"/>rance of his love, ſolace in midſt of ſorrows, or
+<pb n="65" facs="tcp:170540:57"/>the like, we ſhould be more yare, and full of life in managing our addreſſes than we are.</p>
+            <p n="14">14. Pray hard unto God, and be very im<g ref="char:EOLhyphen"/>portunate with him:</p>
+            <p n="1">1. That he would chain up Satan, and rebuke the Tempter, who ſneakingly, and maliciouſly haunts the Aſſembles of the Saints, as a ſligh obſerver, and buſie diſturber, ſtanding at their right hands ready to reſiſt them.</p>
+            <p n="2">2. That he would affect your hearts with truths delivered. Stir<g ref="char:EOLhyphen"/>ring
+<pb n="66" facs="tcp:170540:58"/>affections are at<g ref="char:EOLhyphen"/>tended with a ſharp at<g ref="char:EOLhyphen"/>tention. Men do not look upon themſelves as highly concerned in the commands, promi<g ref="char:EOLhyphen"/>ſes, menaces of the word, and hence ariſeth that liſtleſs, and ſlug<g ref="char:EOLhyphen"/>giſh frame that is upon them.</p>
+            <p>If with <hi>Peter</hi>'s Hear<g ref="char:EOLhyphen"/>ers, we had the keen ar<g ref="char:EOLhyphen"/>row of conviction ſtick<g ref="char:EOLhyphen"/>ing faſt in our ſides, and making us to bluſh, and bleed, the flood-gates of our eyes would be open, for ſwelling ſtreams of penitential teares to come guſhing
+<pb n="67" facs="tcp:170540:58"/>out amain; and in ſtead of ſleeping and ſnoring, there would be ſighing, ſobbing, lamenting, moan-making, ſmiting on the thigh, and curi<g ref="char:EOLhyphen"/>ous inquiring after a remedy for this malady. On the other ſide, if at the hearing of the word the Spirit ſhould be pleaſed to come in and breath upon us with a fair and freſh gale of comfort; if the love of God ſhould be ſhed abroad in our hearts by the Holy Ghoſt; if ſome bright beam of heavenly light ſhould be darted into
+<pb n="68" facs="tcp:170540:59"/>the inner man after a dark, diſmal, ſtormy, tempeſtuous night of temptation, deſertion, diſconſolation, dejecti<g ref="char:EOLhyphen"/>on, it would undoubted<g ref="char:EOLhyphen"/>ly ſcatter thoſe clouds of ſleep and ſecurity that are wont to hang upon our dull and de<g ref="char:EOLhyphen"/>preſſed browes. A warmed heart is a wa<g ref="char:EOLhyphen"/>king heart. Sorrow duls the eye, but joy makes it lively, and ſparkling,</p>
+            <p>I have read of a gra<g ref="char:EOLhyphen"/>cious woman,
+<note place="margin">Mr. <hi>Clarks Mirror.</hi> pag. 508.</note> who at the Supper-Ordinance, being abundantly re<g ref="char:EOLhyphen"/>freſhed with the joyes
+<pb n="69" facs="tcp:170540:59"/>of the Spirit, gat home (as ſhe profeſſed) ſhe knew not how; and for the ſpace of a fort<g ref="char:EOLhyphen"/>night theſe raptures and raviſhing joyes continu<g ref="char:EOLhyphen"/>ed, and filled her mouth with Songs of praiſe, ſo that ſhe could neither ſleep, nor eate more then ſhe forced her ſelf to do out of con<g ref="char:EOLhyphen"/>ſcience of duty. It's impoſſible we ſhould ſleep with a full cup of conſolation in our hands, and at our mouths.</p>
+            <p n="3">3. That he would beſtow upon the Mi<g ref="char:EOLhyphen"/>niſter a quick and power<g ref="char:EOLhyphen"/>full delivery, which is
+<pb n="70" facs="tcp:170540:60"/>wont to draw forth at<g ref="char:EOLhyphen"/>tention, and affection. A dull, heavy, unchear<g ref="char:EOLhyphen"/>ful delivery in the Mi<g ref="char:EOLhyphen"/>niſter, doth little better then invite a drouzy diſreſpect, and is atten<g ref="char:EOLhyphen"/>ded with a careleſs and undecent oſcitancy in the Hearers.</p>
+            <p n="15">15. If prone to miſ<g ref="char:EOLhyphen"/>carry in this kind, and to be oppreſſed with a ſpiritual lethargy, you ſhall do well to humble your ſelves before God with faſting, and prayer: poſſibly this ſleepy Divel will not go out, but in the uſe of ſuch means, which do
+<pb n="71" facs="tcp:170540:60"/>not infeeble and render unfit for ſervice, but rather ſtrengthen, and exhilarate.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
